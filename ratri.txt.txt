@@ -1,0 +1,33 @@
+mkdir ratri
+cd ratri
+mkdir sekolah 
+mkdir kerja 
+cd sekolah 
+touch ijazah.txt
+nano ijazah.txt
+perkenalkan namaku ratri 
+aku berasal dari madiun
+salam kenal :D
+ctrl+X - Y - enter
+cat ijazah.txt
+touch portofolio.txt
+nano potrofolio.txt
+saya pernah bekerja pada beberapa perusahaan salah satu diantaranya ialah 
+-Shopee
+-Majuhardware
+-Tiktok
+ctrl+X - Y - enter
+cd ..
+cd kerja
+touch cv.txt
+nano cv.txt
+salam,
+perkenalkan namaku ratri,saya memiliki kegemaran 
+-Membaca
+-Menulis
+-Menggambar
+ctrl+X - Y - enter
+cat cv.txt
+cd ..
+cd sekolah 
+mv portofolio.txt ../kerja
